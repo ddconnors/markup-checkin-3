@@ -1,0 +1,50 @@
+/*this is a style sheet for the resume*/
+
+h1 {
+    color: rgb(95, 63, 20);
+    font-family:copperplate; 
+    background-color: beige;
+    text-indent: 50%;
+}
+
+h5 {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-indent: 65%;
+    color:rgb(88, 30, 30);
+    font-family: copperplate;
+}
+
+.email{
+    text-indent: 62%;
+}
+
+.linkedin{
+    text-indent: 60%;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h3{
+    color:rgb(95, 63, 20);
+    font-family:copperplate; 
+    background-color: beige;
+}
+
+em{
+    font-weight: bold;
+    color: brown;
+}
+
+li{
+    color:rgb(95, 63, 20); 
+    font-family:copperplate;
+}
+
+.indent{
+    color:rgb(88, 30, 30)
+}
+    
